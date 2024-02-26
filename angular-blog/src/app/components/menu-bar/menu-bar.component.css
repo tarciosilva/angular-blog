@@ -1,0 +1,12 @@
+.container__menu-bar {
+  margin: 15px;
+}
+.menu-bar__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.menu-bar__list > li > a {
+  color: #C40030;
+}
+

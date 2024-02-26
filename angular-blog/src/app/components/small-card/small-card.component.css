@@ -1,0 +1,10 @@
+.container__small-card {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin: 15px 0 15px 0;
+  max-width: calc(50vw - 15px);
+}
+.small-card__picture > img {
+  max-width: 20vw;
+}
